@@ -8,9 +8,9 @@ import java.util.HashSet;
 import java.util.List;
 
 /**
- * @author Your name here.
+ * @author Iryna Kanivets.
  * 
- * For the warm up assignment, you must implement your Graph in a class
+ * implement your Graph in a class
  * named CapGraph.  Here is the stub file.
  *
  */
